@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/eric-kivel-039b001b4">
+    <a target="_blank" href="https://www.linkedin.com/in/eric-kivel-039b001b4">
         <img src="https://img.shields.io/badge/Linkedin-Eric_Kivel-blue?logo=linkedin&style=flat" alt="Linkedin-Eric"/>
     </a>
 </p>
@@ -18,7 +18,7 @@
   - :money_with_wings: Financial Education;
   - :movie_camera: Video and photo editing;
   - :soccer: Playing sports (like football and parkour).
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/eric-kivel-039b001b4">
+- 📫 How to reach me: <a target="_blank" href="https://www.linkedin.com/in/eric-kivel-039b001b4">
         <img src="https://img.shields.io/badge/Linkedin-Eric_Kivel-blue?logo=linkedin&style=flat" alt="Linkedin-Eric"/>
     </a> 
 
