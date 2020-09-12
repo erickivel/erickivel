@@ -22,7 +22,6 @@
   - :soccer: Play sports (football and parkour).
 
 💻 I am currently learning the Omnistack:        
-   &nbsp; <img height="40" src="./.github/nodeJs-logo.png"/>&nbsp; &nbsp;&nbsp;&nbsp; <img height="35" src="./.github/react-logo.png"/>&nbsp;&nbsp; &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; <img height="30" src="./.github/react-native-logo.png"/> </br>
     **NodeJS** | **ReactJS** | **React Native** 
 
 ---
