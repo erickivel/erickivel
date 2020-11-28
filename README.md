@@ -16,7 +16,7 @@
 
 
 :boy: I am 16 </br>
-:rocket: I am currently doing the GoStack course at @Rocketseat </br>
+:rocket: I am currently studying the omnistack (NodeJS | ReactJS | React Native) </br>
 :boom: Hobbies: 
   - :money_with_wings: Financial Education;
   - :soccer: Play sports (football and parkour).
