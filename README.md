@@ -16,8 +16,12 @@
 
 
 :boy: I am 16 </br>
-💻 I am currently learning the Omnistack:        
+
+💻 I am currently studying the Omnistack:        
     **NodeJS** | **ReactJS** | **React Native** 
+    </br>
+    Doing my own projects! 
+    </br>
 :boom: Hobbies: 
   - :money_with_wings: Financial Education;
   - :soccer: Play sports (football and parkour).
