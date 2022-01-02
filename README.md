@@ -15,7 +15,7 @@
 </h1>
 
 
-:boy: I am 16 </br>
+:boy: I am 18 </br>
 
 💻 I am currently studying the Omnistack:        
     **NodeJS** | **ReactJS** | **React Native** 
