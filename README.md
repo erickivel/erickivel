@@ -41,7 +41,3 @@
     </a> 
 
 ## Let's code!
-
-![Snake animation](https://github.com/erickivel/erickivel/blob/output/github-contribution-grid-snake.svg)
-
-<img width="30%" src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif" />
