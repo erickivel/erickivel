@@ -11,7 +11,7 @@
 </br>
     
 <p align="center">
-    <a href="https://www.linkedin.com/in/eric-kivel-039b001b4">
+    <a href="https://www.linkedin.com/in/erickivel">
         <img src="https://img.shields.io/badge/Linkedin-Eric_Kivel-blue?logo=linkedin&style=flat-square" alt="Linkedin-Eric"/>
     </a>
 </p>
@@ -36,7 +36,7 @@
 
 ---
 
-📫 How to reach me: <a href="https://www.linkedin.com/in/eric-kivel-039b001b4">
+📫 How to reach me: <a href="https://www.linkedin.com/in/erickivel">
         <img src="https://img.shields.io/badge/Linkedin-Eric_Kivel-blue?logo=linkedin&style=flat-square" alt="Linkedin-Eric"/>
     </a> 
 
