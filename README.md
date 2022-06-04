@@ -23,17 +23,15 @@
 </h1>
 
 
-:boy: I am 18 </br>
+I'm 18 :boy:, and currently an undergraduate student of Computer Science. :man_technologist: I started to program for the web in 2020, and since then I've been exploring the world of programming while developing my projects. :rocket: 
 
-💻 I am currently studying the Omnistack:        
-    **NodeJS** | **ReactJS** | **React Native** 
-    </br>
-    Doing my own projects! 
-    </br>
-:boom: Hobbies: 
-  - :money_with_wings: Financial Education;
-  - :soccer: Play sports (football and parkour).
-
+My tech stack 💻: </br>
+    - **NodeJS** </br>
+    - **AWS services** </br>
+    - **Docker** </br>
+    - **ReactJS** </br>
+    - **Git** </br>
+    
 ---
 
 📫 How to reach me: <a href="https://www.linkedin.com/in/erickivel">
