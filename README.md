@@ -23,9 +23,9 @@
 </h1>
 
 
-I'm 18 :boy:, and currently an undergraduate student of Computer Science. :man_technologist: I started to program for the web in 2020, and since then I've been exploring the world of programming while developing my projects. :rocket: 
+I'm 19, and currently an undergraduate student of Computer Science. :man_technologist: I started to program for the web in 2020, and since then I've been exploring the world of programming while developing my projects. :rocket: 
 
-My tech stack 💻: </br>
+My main tech stack 💻: </br>
     - **NodeJS** </br>
     - **AWS services** </br>
     - **Docker** </br>
